@@ -1,3 +1,5 @@
+[Back to Notes ReadMe](Readme.md)
+
 # 📊 Module 1 : Get Started Building with Power BI
 
 [Microsoft Learning Module link](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) 
