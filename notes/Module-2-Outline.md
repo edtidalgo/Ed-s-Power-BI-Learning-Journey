@@ -1,6 +1,6 @@
 [Back to Notes ReadMe](Readme.md)
 
-# 📊 Get Data in Power BI 
+# Get Data in Power BI 
 
 [Learning Module](https://learn.microsoft.com/en-us/training/modules/get-data/)
 
@@ -9,13 +9,13 @@
 
 ---
 
-## 📘 Module Overview
+## Module Overview
 Learn how to retrieve data from a variety of sources, including **Microsoft Excel**, **relational databases**, and **NoSQL data stores**.  
 You’ll also explore techniques to improve performance while retrieving data.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 By the end of this module, you'll be able to:
 
 - Identify and connect to a data source  
@@ -29,12 +29,12 @@ By the end of this module, you'll be able to:
 
 ---
 
-## 📝 Prerequisites
+## Prerequisites
 - None  
 
 ---
 
-## 📚 Learning Paths
+## Learning Paths
 This module is part of the following learning paths:
 
 - *Prepare and visualize data with Microsoft Power BI*  
@@ -42,7 +42,7 @@ This module is part of the following learning paths:
 
 ---
 
-## 📖 Module Outline
+## Module Outline
 1. Introduction  
 2. Get data from files  
 3. Get data from relational data sources  
